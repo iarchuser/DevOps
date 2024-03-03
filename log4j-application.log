@@ -1,0 +1,46 @@
+2024-03-03 17:53:50,706 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 17:53:51,209  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:07:21,368 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:07:21,967  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:12:24,802 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:12:25,297  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:21:55,652 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:21:56,150  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:22:55,637 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:22:56,118  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:25:59,369 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:25:59,817  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:26:14,444  INFO [main] I-NetBanking:16 - Application Launched
+ 2024-03-03 18:29:43,196 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:29:43,699  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:30:07,389  INFO [main] I-NetBanking:16 - Application Launched
+ 2024-03-03 18:30:09,566  INFO [main] I-NetBanking:19 - Username and Password entered and cliecked on Login button
+ 2024-03-03 18:30:09,584  INFO [main] I-NetBanking:23 - Login Successful
+ 2024-03-03 18:31:44,534 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:31:45,020  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:31:57,101  INFO [main] I-NetBanking:16 - Application Launched
+ 2024-03-03 18:31:59,107  INFO [main] I-NetBanking:19 - Username and Password entered and cliecked on Login button
+ 2024-03-03 18:31:59,129  INFO [main] I-NetBanking:23 - Login Successful
+ 2024-03-03 18:32:26,727 DEBUG [main] TestNG:82 - suiteXmlPath: "E:\SeleniumWorkspace\DevOps\testng.xml"
+ 2024-03-03 18:32:27,214  INFO [main] Utils:112 - [TestNG] Running:
+  E:\SeleniumWorkspace\DevOps\testng.xml
+
+ 2024-03-03 18:32:42,544  INFO [main] I-NetBanking:16 - Application Launched
+ 2024-03-03 18:32:43,377  INFO [main] I-NetBanking:19 - Username and Password entered and cliecked on Login button
+ 
